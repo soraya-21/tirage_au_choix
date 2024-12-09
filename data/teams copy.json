@@ -1,0 +1,65 @@
+[
+    {
+        "nom": "Manchester City",
+        "pays": "Angleterre",
+        "championnat": "Premier League",
+        "chapeau": 1,
+        "logo": "manchester-city.png"
+    },
+    {
+        "nom": "Bayern Munich",
+        "pays": "Allemagne",
+        "championnat": "Bundesliga",
+        "chapeau": 1,
+        "logo":"bayern_munich.png"
+    },
+    {
+        "nom": "Real Madrid",
+        "pays": "Espagne",
+        "championnat": "La Liga",
+        "chapeau": 1,
+        "logo": "Real_madrid.png"
+    },
+    {
+        "nom": "PSG",
+        "pays": "France",
+        "championnat": "Ligue 1",
+        "chapeau": 1,
+        "logo": "Paris_Saint-Germain.png"
+    },
+    {
+        "nom": "Liverpool",
+        "pays": "Angleterre",
+        "championnat": "Premier League",
+        "chapeau": 1,
+        "logo": "liverpool.png"
+    },
+    {
+        "nom": "Inter Milan",
+        "pays": "Italie",
+        "championnat": "Serie A",
+        "chapeau": 1,
+        "logo": "FC_Internazionale.png"
+    },
+    {
+        "nom": "Borussia Dortmund",
+        "pays": "Allemagne",
+        "championnat": "Bundesliga",
+        "chapeau": 1,
+        "logo": "Borussia_Dortmund.png"
+    },
+    {
+        "nom": "RB Leipzig",
+        "pays": "Allemagne",
+        "championnat": "Bundesliga",
+        "chapeau": 1,
+        "logo": "RB_Leipzig.png"
+    },
+    {
+        "nom": "FC Barcelone",
+        "pays": "Espagne",
+        "championnat": "La Liga",
+        "chapeau": 1,
+        "logo": "Logo_FC_Barcelona.png"
+    }
+]
